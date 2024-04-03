@@ -10,5 +10,7 @@ requires = [
 "data-analysis-tools-cat",
 "data-analysis-tools-dog",
 "data-analysis-tools-eth",
+"data-analysis-attribute-tool-jms",
+"data-analysis-tools-jms-seg",
 ]
 build-backend = "setuptools.build_meta"
